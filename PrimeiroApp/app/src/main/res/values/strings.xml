@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Primeiro App</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="button_cadastrar">Cadastrar</string>
+    <string name="clique_aqui">Clique aqui</string>
+    <string name="clique_abaixo">Clique abaixo</string>
+</resources>
